@@ -6,6 +6,7 @@
 - npm
 
 ## Getting Start
+
 Clone project
 
 ```sh
@@ -23,6 +24,8 @@ npm start
 
 Simply type `git commit` and follow the instructions to input and select content to successfully commit.
 
+Develop in GitHub flow, check the PRs at [here](https://github.com/haohow123/react-vite/pulls?q=is%3Apr+is%3Aclosed)
+
 ## Depandencies
 
 - **Material UI** - React Material Ui Framework
@@ -34,5 +37,3 @@ Simply type `git commit` and follow the instructions to input and select content
 - **lint-staged** - Run linters against staged git files
 - **Root import** - Import folders and files using the `@` prefix.
 - **vite-plugin-pages** - Pages route
-
-
